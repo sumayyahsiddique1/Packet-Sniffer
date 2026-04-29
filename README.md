@@ -1,4 +1,4 @@
-# Packet Sniffer - Task 1
+# Packet Sniffer
 
 A simple **Python Packet Sniffer** built using raw sockets on Linux.  
 This program captures network packets at the Ethernet level and parses **IPv4**, **ICMP**, **TCP**, and **UDP** packets.
